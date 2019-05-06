@@ -1,0 +1,23 @@
+svg{
+	padding-right: 20px;
+	padding-top: 10px;
+	display: block;
+	margin:0 auto;
+
+}
+
+.design-svg svg path{
+	fill:blue;
+	stroke:orange;
+}
+
+.product-svg svg path{
+	fill:red;
+	stroke:powderblue;
+}
+
+.table-svg svg path{
+	fill:white;
+	stroke: black;
+}
+
